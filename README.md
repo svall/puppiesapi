@@ -25,3 +25,8 @@
 
 # helpful commands
 `\du` to see all users (inside psql)
+
+# helpful links
+[fetch](https://github.com/github/fetch)
+[pg-promise](https://github.com/vitaly-t/pg-promise)
+[postgreSQL Table Expressions](https://www.postgresql.org/docs/9.3/static/queries-table-expressions.html)
