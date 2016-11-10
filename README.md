@@ -11,12 +11,14 @@
 # dotenv
 1. create a `.env` file at the root of your project
 2. add the following info (**UPDATE** `USER=` with your username):
-  > DB_HOST=localhost
-    DB_USER=<your database username>
-    DB_PASS=
-    DB_NAME=puppiesapi
-    DB_PORT=5432
-    NODE_ENV=development
+```
+  DB_HOST=localhost
+  DB_USER=<your database username>
+  DB_PASS=
+  DB_NAME=puppiesapi
+  DB_PORT=5432
+  NODE_ENV=development
+```
 
 # npm
 1. in the terminal type: `npm install` (from the root of your project)
